@@ -2,7 +2,7 @@
 import telebot
 from colorama import Back
 import config as cfg
-import init_gram as i
+import bebroy as i
 import time
 bot = telebot.TeleBot(cfg.token, parse_mode=None)
 hm = None
